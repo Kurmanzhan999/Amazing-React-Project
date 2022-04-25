@@ -1,8 +1,6 @@
 import React, { useState } from 'react';
 import { CgMenuRight } from 'react-icons/cg';
 import { FaTimes } from 'react-icons/fa';
-
-// import { IconContext } from 'react-icons';
 import { IconContext } from 'react-icons';
 import {
   Nav,
@@ -14,7 +12,6 @@ import {
   NavLinks,
   NavItem,
 } from './NavBarStyles';
-import { click } from '@testing-library/user-event/dist/click';
 import { navbarData } from '../../data/NavBarData';
 
 function NavBar() {
