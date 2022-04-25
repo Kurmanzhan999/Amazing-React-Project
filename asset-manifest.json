@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Amazing-React-Project/static/css/main.c4702d4b.css",
+    "main.js": "/Amazing-React-Project/static/js/main.bc3ab9b0.js",
+    "index.html": "/Amazing-React-Project/index.html",
+    "main.c4702d4b.css.map": "/Amazing-React-Project/static/css/main.c4702d4b.css.map",
+    "main.bc3ab9b0.js.map": "/Amazing-React-Project/static/js/main.bc3ab9b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4702d4b.css",
+    "static/js/main.bc3ab9b0.js"
+  ]
+}
